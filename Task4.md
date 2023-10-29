@@ -1,0 +1,1 @@
+Bir işlem bitmeden yeniden çağrıldığı için fazladan para gider ve bakiye sıfırlanır. Reentrancy 
